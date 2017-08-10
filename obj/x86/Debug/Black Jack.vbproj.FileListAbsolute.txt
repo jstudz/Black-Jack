@@ -1,0 +1,33 @@
+C:\Users\Arthas\Documents\WCTC - School Work\Programming\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.exe
+C:\Users\Arthas\Documents\WCTC - School Work\Programming\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.pdb
+C:\Users\Arthas\Documents\WCTC - School Work\Programming\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.xml
+C:\Users\Arthas\Documents\WCTC - School Work\Programming\Black Jack\Black Jack\Black Jack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthas\Documents\WCTC - School Work\Programming\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black_Jack.Form1.resources
+C:\Users\Arthas\Documents\WCTC - School Work\Programming\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black_Jack.Resources.resources
+C:\Users\Arthas\Documents\WCTC - School Work\Programming\Black Jack\Black Jack\Black Jack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arthas\Documents\WCTC - School Work\Programming\Black Jack\Black Jack\Black Jack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arthas\Documents\WCTC - School Work\Programming\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black Jack.exe
+C:\Users\Arthas\Documents\WCTC - School Work\Programming\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black Jack.xml
+C:\Users\Arthas\Documents\WCTC - School Work\Programming\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black Jack.pdb
+F:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black Jack.exe
+F:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black Jack.xml
+F:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black Jack.pdb
+F:\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.exe
+F:\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.pdb
+F:\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.xml
+F:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black_Jack.Form1.resources
+F:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black_Jack.Resources.resources
+F:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black Jack.exe
+E:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black Jack.xml
+E:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black Jack.pdb
+E:\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.exe
+E:\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.pdb
+E:\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.xml
+E:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black_Jack.Form1.resources
+E:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\Black_Jack.Resources.resources
+E:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Black Jack\Black Jack\Black Jack\obj\x86\Debug\GenerateResource.write.1.tlog
